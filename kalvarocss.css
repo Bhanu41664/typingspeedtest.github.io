@@ -104,7 +104,7 @@ span.active::before{
     transition: transform 0.3s ease;
 }
 .content button:active{
-    transform: scale(1.0);
+    transform: scale(1.2);
 }
 .content .result-details{
     display: flex;
